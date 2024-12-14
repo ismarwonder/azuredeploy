@@ -66,4 +66,4 @@ jobs:
         with:
           app-name: 'appservice-shades4you-IsmarGutic'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_6D2B4F3B11FA46EA8133C90A8129CA88 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_9CD5CC388F0841789B1AC1C2ABEAB60A }}
